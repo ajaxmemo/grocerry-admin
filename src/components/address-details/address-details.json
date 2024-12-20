@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_address_details_address_details",
+  "info": {
+    "displayName": "address_details"
+  },
+  "options": {},
+  "attributes": {
+    "first_name": {
+      "type": "string"
+    },
+    "last_name": {
+      "type": "string"
+    },
+    "house": {
+      "type": "string"
+    },
+    "apartment": {
+      "type": "text"
+    },
+    "city": {
+      "type": "string"
+    },
+    "post_code": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    }
+  }
+}
